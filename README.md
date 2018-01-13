@@ -8,9 +8,13 @@ TheBUG
 by Daniel F.
 
 What do you want to do?
+
 R = Run with default or saved settings.
+
 P = Choose from a preset of mine.
+
 C = Customize what happens when launched.
+
 S = Other misc settings that you can mess around with.
 
 Ver 0.1
