@@ -23,3 +23,5 @@ Ver 0.1
 
 [End of preview]
 
+(Due to how GitHub wraps text, the preview may not be EXACTLY the same as reality. I have no idea hy this happens but it really is annoying.)
+
